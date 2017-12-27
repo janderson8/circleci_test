@@ -1,0 +1,10 @@
+{
+  "cmd": [$file, $args],
+  "script": "execute.sh",
+  "working_dir": "/root/bin/",
+  "info": "",
+  "env": {},
+  "selector": "",
+  "debugger": "",
+  "debugport": "PORT_NUMBER"
+}
