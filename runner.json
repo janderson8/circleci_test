@@ -1,5 +1,5 @@
 {
-  "cmd": [$file, $args],
+  "cmd": ["$file", "$args"],
   "script": "execute.sh",
   "working_dir": "/root/bin/",
   "info": "",
